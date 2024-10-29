@@ -9,3 +9,4 @@ TimelineMax 使用 TimelineMax 類別去控制時間段需要播放的動畫;
 createElement 動態創建新的表單輸入和按鈕，並根據選擇的成績，更新 GPA。addEventListener 添加刪除按鈕的動畫效果，刪除元素時觸發動畫結束事件來移除 DOM 元素。
 
 CSS 中的 @keyframes border_color 動畫屬性來應用這個彩虹燈效果，在不同比例的進度（0%、33%、66%）切換邊框顏色
+![image](https://github.com/user-attachments/assets/3e24ad44-656a-45c5-9ae1-4a49e38dd710)
